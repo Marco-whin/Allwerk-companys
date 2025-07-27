@@ -1,0 +1,201 @@
+{
+    "company1": {
+        "name": {
+            "de": "Nova Blocks",
+            "en": "Nova Blocks"
+        },
+        "logo": "logos/firmen-name.png",
+        "description": {
+            "de": "Nova Blocks ist unser Minecraft-Bauteam, das sich darauf spezialisiert hat, wirklich kreative Welten zu erschaffen. Wir stecken viel Liebe in jedes Projekt, damit am Ende etwas Einzigartiges und Beeindruckendes entsteht.",
+            "en": "Description in English"
+        },
+        "website": "https://firma-a.de",
+        "socialMedia": {
+            "Youtube": "https://www.youtube.com/@NovaBlocksArcadeOne"
+        },
+        "parentId": "company2"
+    },
+    "company2": {
+        "name": {
+            "de": "ArcadeOne Family",
+            "en": "ArcadeOne Family"
+        },
+        "logo": "logos/firma-a.png",
+        "description": {
+            "de": "ArcadeOne ist die Heimat für kompetitiven E-Sport – wir organisieren wegweisende Turniere und führen internationale Top-Teams mit Präzision und Leidenschaft. Mit Fokus auf Exzellenz, Community und Next-Level Entertainment definieren wir die Zukunft des Gamings",
+            "en": "ArcadeOne is the home of competitive esports – we organize groundbreaking tournaments and bring together international top teams with precision and passion. With a focus on excellence, community, and next-level entertainment, we’re defining the future of gaming."
+        },
+        "subsidiaries": ["company1"]
+    },
+    "company3": {
+        "name": {
+            "de": "Libera",
+            "en": "Libera"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Libera ist die Plattform für echte Bildung – offen, ungefiltert und unabhängig. Hier finden Lernende und Lehrende hochwertigen Content, frei von Algorithmen und ideologischer Zensur.",
+            "en": "Libera is the platform for real education—open, unfiltered, and independent. Here, learners and educators find high-quality content, free from algorithms and ideological censorship."
+        },
+        "website": "https://firma-c.de",
+        "parentId": "company4"
+    },
+    "company4": {
+        "name": {
+            "de": "MediaUnion",
+            "en": "MediaUnion"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "MediaUnion vereint unabhängige Stimmen unter einem modernen, digitalen Dach – ein neues öffentliches Mediennetzwerk für eine aufgeklärte Gesellschaft. Transparent finanziert, werteorientiert und frei von politischer Einflussnahme setzen wir neue Standards für den Journalismus.",
+            "en": "MediaUnion unites independent voices under a modern, digital umbrella—a new public media network for an enlightened society. Transparently funded, value-driven, and free from political influence, we set new standards for journalism."
+        },
+        "website": "https://firma-c.de",
+        "subsidiaries": ["company3", "company5"]
+    },
+    "company5": {
+        "name": {
+            "de": "On The Go.Stories",
+            "en": "On The Go.Stories"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "OnTheGo.Stories ist das bewegte Portrait des Alltags – ein Medium, das echte Menschen einen Tag lang begleitet und ihre Geschichte in Momentaufnahmen erzählt. Authentisch, nah und ungeschnitten fängt es das Leben ein, wie es wirklich ist.",
+            "en": "OnTheGo.Stories is living portraiture of everyday life – a medium that follows real people for a day and tells their stories through snapshots in time. Authentic, intimate, and unedited, it captures life as it truly unfolds."
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "Youtube": "https://www.youtube.com/@OnTheGo.Stories"
+        },
+        "parentId": "company4"
+    },
+    "company6": {
+        "name": {
+            "de": "DriveCore",
+            "en": "DriveCore"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "DriveCore entwickelt die nächste Generation autonomer Mobilität – sicher, lernfähig und nahtlos integriert. Unsere Technologie denkt voraus, navigiert intuitiv und bringt Autonomie auf die Straße, wie sie sein sollte: menschlich intelligent.",
+            "en": "DriveCore is developing the next generation of autonomous mobility – safe, adaptive, and seamlessly integrated. Our technology anticipates, navigates intuitively, and delivers autonomy as it should be: with human-like intelligence."
+        },
+        "website": "https://firma-c.de",
+        "parentId": "company9"
+    },
+    "company7": {
+        "name": {
+            "de": "NewStart",
+            "en": "NewStart"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "NewStart holt Menschen aus der Obdachlosigkeit zurück ins Leben – mit Würde, Struktur und echter Perspektive. Durch Soforthilfe, Betreuung und Re-Integration schaffen wir neue Chancen dort, wo andere aufgeben.",
+            "en": "NewStart restores people from homelessness to lives of dignity, stability, and genuine opportunity. Through immediate aid, personalized support, and reintegration programs, we create second chances where others give up."
+        },
+        "website": "https://firma-c.de"
+    },
+    "company8": {
+        "name": {
+            "de": "BlackPiston",
+            "en": "BlackPiston"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "BlackPiston entwickelt Hochleistungsantriebe für Wasser, Luft und Straße – kompromisslos kraftvoll, effizient und zukunftssicher. Ob Boot, Flugzeug oder Auto: Unsere Motoren sind der Herzschlag moderner Mobilität.",
+            "en": "BlackPiston develops high-performance propulsion systems for water, air, and land – relentlessly powerful, efficient, and future-proof. Whether boat, aircraft, or automobile: our engines are the heartbeat of modern mobility."
+        },
+        "website": "https://firma-c.de",
+        "parentId": "company9"
+    },
+    "company9": {
+        "name": {
+            "de": "Kronberg Group",
+            "en": "Kronberg Group"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Kronberg ist die treibende Kraft hinter wegweisender Mobilität – von Fahrzeugen über Boote und Flugzeuge bis hin zu intelligenten Antriebssystemen. Als visionäre Muttergesellschaft vereinen wir Ingenieurskunst, Design und autonomes Denken zu einer neuen Bewegung der Fortbewegung.",
+            "en": "Kronberg is the driving force behind groundbreaking mobility – from vehicles and boats to aircraft and intelligent propulsion systems. As the visionary parent company, we fuse engineering mastery, design excellence, and autonomous innovation to pioneer a new movement in transportation."
+        },
+        "website": "https://firma-c.de",
+        "subsidiaries": ["company8", "company6", "company10", "company11", "company12", "company13", "company14", "company15"]
+    },
+    "company10": {
+        "name": {
+            "de": "KRONEX Performance",
+            "en": "KRONEX Performance"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "KRONEX Performance steht für veredelte Power, kompromissloses Design und technische Präzision. Wir transformieren Serienfahrzeuge in charakterstarke Unikate – mit exklusivem Tuning, das Leistung fühlbar und Luxus sichtbar macht.",
+            "en": "KRONEX Performance embodies refined power, uncompromising design, and technical precision. We transform production vehicles into distinctive masterpieces – through exclusive tuning that makes performance tangible and luxury visible."
+        },
+        "website": "https://firma-c.de",
+        "parentId": "company9"
+    },
+    "company11": {
+        "name": {
+            "de": "URBION",
+            "en": "URBION"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "URBION baut kompakte Fahrzeuge für das moderne Leben – urban, smart und voller Charakter. Mit ikonischem Design, innovativer Technik und maximaler Effizienz bringen wir Stil und Mobilität auf den Punkt.",
+            "en": "URBION builds compact vehicles for modern living – urban, smart, and full of character. With iconic design, innovative technology, and maximum efficiency, we redefine style and mobility."
+        },
+        "website": "https://firma-c.de",
+        "parentId": "company9"
+    },
+    "company12": {
+        "name": {
+            "de": "Vitesse",
+            "en": "Vitesse"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Vitesse baut Maschinen für Menschen mit Haltung – kraftvoll, agil und kompromisslos im Design. Jedes Bike ist ein Statement auf zwei Rädern: engineered for freedom, built for the ride.",
+            "en": "Vitesse builds machines for riders with attitude – powerful, agile, and uncompromising in design. Every bike is a two-wheeled statement: engineered for freedom, built for the ride."
+        },
+        "website": "https://firma-c.de",
+        "parentId": "company9"
+    },
+    "company13": {
+        "name": {
+            "de": "TRAXON",
+            "en": "TRAXON"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "TRAXON entwickelt Busse und Lastwagen für eine Welt in Bewegung – robust, effizient und bereit für jede Strecke. Mit smarter Technik und nachhaltigem Antrieb setzen wir neue Standards im Schwerlast- und Personenverkehr.",
+            "en": "TRAXON builds buses and trucks for a world on the move – rugged, efficient, and ready for every route. With smart technology and sustainable drivetrains, we're setting new standards in heavy-duty and passenger transport."
+        },
+        "website": "https://firma-c.de",
+        "parentId": "company9"
+    },
+    "company14": {
+        "name": {
+            "de": "Frontier",
+            "en": "Frontier"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Frontier steht für kompromisslose Stärke, gebaut für jedes Terrain – von leistungsstarken Pickups bis zu ikonischen Offroadern. Unsere Fahrzeuge vereinen robuste Technik mit markantem Design und sind gemacht für Menschen, die weiter wollen.",
+            "en": "Frontier stands for uncompromising strength, engineered for every terrain – from high-performance pickups to iconic off-roaders. Our vehicles combine rugged engineering with distinctive design, built for those who demand to go further."
+        },
+        "website": "https://firma-c.de",
+        "parentId": "company9"
+    },
+    "company15": {
+        "name": {
+            "de": "Von Luminary",
+            "en": "Von Luminary"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Von Luminary erschafft Automobile jenseits des Gewöhnlichen – handgefertigte Luxusfahrzeuge, die Eleganz, Ruhe und Kraft in vollendeter Form vereinen. Jeder Von Luminary ist kein Auto, sondern ein Statement zeitloser Exzellenz.",
+            "en": "Von Luminary crafts automobiles beyond the ordinary – hand-built luxury vehicles where elegance, serenity, and power achieve perfect harmony. Every Von Luminary isn't merely a car, but a statement of timeless excellence"
+        },
+        "website": "https://firma-c.de",
+        "parentId": "company9"
+    }
+}
