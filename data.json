@@ -197,5 +197,17 @@
         },
         "website": "https://firma-c.de",
         "parentId": "company9"
+    },
+    "company16": {
+        "name": {
+            "de": "LUNARELLE",
+            "en": "LUNARELLE"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "LUNARELLE ist die Marke für moderne Erotik – stilvoll, selbstbewusst und ganzheitlich. Von hochwertigen Filmplattformen bis zu kuratierten Pleasure-Shops gestalten wir intime Erlebnisse mit Klasse, Klarheit und Haltung.",
+            "en": "LUNARELLE is the brand for modern eroticism – stylish, confident, and holistic. From premium film platforms to curated pleasure shops, we design intimate experiences with class, clarity, and attitude."
+        },
+        "website": "https://firma-c.de"
     }
 }
