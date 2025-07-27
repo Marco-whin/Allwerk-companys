@@ -200,6 +200,22 @@
     },
     "company16": {
         "name": {
+            "de": "Stagion",
+            "en": "Stagion"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Stagion inszeniert Keynotes, die bleiben – für Marken, die etwas zu sagen haben. Von Konzept bis Bühne verwandeln wir Botschaften in Momente, Technik in Emotion und Auftritte in Wirkung.",
+            "en": "Stagion produces unforgettable keynotes – for brands with something to say. From concept to stage, we transform messages into moments, technology into emotion, and presentations into impact."
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        }
+    },
+    "company17": {
+        "name": {
             "de": "LUNARELLE",
             "en": "LUNARELLE"
         },
@@ -208,6 +224,75 @@
             "de": "LUNARELLE ist die Marke für moderne Erotik – stilvoll, selbstbewusst und ganzheitlich. Von hochwertigen Filmplattformen bis zu kuratierten Pleasure-Shops gestalten wir intime Erlebnisse mit Klasse, Klarheit und Haltung.",
             "en": "LUNARELLE is the brand for modern eroticism – stylish, confident, and holistic. From premium film platforms to curated pleasure shops, we design intimate experiences with class, clarity, and attitude."
         },
-        "website": "https://firma-c.de"
-    }
+        "website": "https://firma-c.de",
+        "subsidiaries": ["company18", "company19", "company20", "company21",]
+    },
+    "company18": {
+        "name": {
+            "de": "Firma A",
+            "en": "Company A"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Beschreibung auf Deutsch",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        },
+        "parentId": "company17"
+    },
+    "company19": {
+        "name": {
+            "de": "Firma A",
+            "en": "Company A"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Beschreibung auf Deutsch",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        },
+        "parentId": "company17"
+    },
+    "company20": {
+        "name": {
+            "de": "Firma A",
+            "en": "Company A"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Beschreibung auf Deutsch",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        },
+        "parentId": "company17"
+    },
+    "company21": {
+        "name": {
+            "de": "Firma A",
+            "en": "Company A"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Beschreibung auf Deutsch",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        },
+        "parentId": "company17"
+    },
 }
