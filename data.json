@@ -51,7 +51,7 @@
             "en": "MediaUnion unites independent voices under a modern, digital umbrella—a new public media network for an enlightened society. Transparently funded, value-driven, and free from political influence, we set new standards for journalism."
         },
         "website": "https://firma-c.de",
-        "subsidiaries": ["company3", "company5"]
+        "subsidiaries": ["company3", "company5", "company22"]
     },
     "company5": {
         "name": {
@@ -280,8 +280,25 @@
     },
     "company21": {
         "name": {
-            "de": "Firma A",
-            "en": "Company A"
+            "de": "Erotic Edge",
+            "en": "Erotic Edge"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Erotic Edge ist die Plattform für ethische Erwachsenenunterhaltung – respektvoll produziert, fair vergütet und ästhetisch erzählt. Bei uns stehen Konsens, Vielfalt und echte Lust im Mittelpunkt jeder Szene.",
+            "en": "Erotic Edge is the platform for ethical adult entertainment—respectfully produced, fairly compensated, and aesthetically crafted. For us, consent, diversity, and authentic pleasure are at the heart of every scene."
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        },
+        "parentId": "company17"
+    },
+    "company22": {
+        "name": {
+            "de": "Die SpielKiste",
+            "en": "Die SpielKiste"
         },
         "logo": "logos/firma-c.png",
         "description": {
@@ -293,6 +310,6 @@
             "LinkedIn": "https://linkedin.com/firma-a",
             "Twitter": "https://twitter.com/firma-a"
         },
-        "parentId": "company17"
+        "parentId": "company4"
     }
 }
