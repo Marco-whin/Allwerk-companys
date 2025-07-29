@@ -462,5 +462,167 @@
             "Twitter": "https://twitter.com/firma-a"
         },
         "parentId": "company27"
+    },
+    "company32": {
+        "name": {
+            "de": "Entertainment-on-Demand",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Keine Lootboxen",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        },
+        "subsidiaries": ["company33"]
+    },
+    "company33": {
+        "name": {
+            "de": "Video",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Keine Lootboxen",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        },
+        "parentId": "company32"
+    },
+    "company34": {
+        "name": {
+            "de": "Abschleppdienst",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        }
+    },
+    "company35": {
+        "name": {
+            "de": "Auffangstation",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        }
+    },
+    "company36": {
+        "name": {
+            "de": "Altersheim",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        }
+    },
+    "company37": {
+        "name": {
+            "de": "Apotheke",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        }
+    },
+    "company38": {
+        "name": {
+            "de": "Arcade",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        }
+    },
+    "company39": {
+        "name": {
+            "de": "Arcade Automat in Modern",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        }
+    },
+    "company40": {
+        "name": {
+            "de": "Arena bauer",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        }
+    },
+    "company41": {
+        "name": {
+            "de": "Atomkraftwerk",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        }
     }
 }
