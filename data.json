@@ -361,5 +361,54 @@
             "Twitter": "https://twitter.com/firma-a"
         },
         "parentId": "company24"
+    },
+    "company25": {
+        "name": {
+            "de": "MyID",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Beschreibung auf Deutsch",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        }
+    },
+    "company27": {
+        "name": {
+            "de": "Game Publischer",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Beschreibung auf Deutsch",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        }
+    },
+    "company28": {
+        "name": {
+            "de": "Spiele verkaufsseite",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Beschreibung auf Deutsch",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        },
+        "parentId": "company4"
     }
 }
