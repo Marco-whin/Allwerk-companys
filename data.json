@@ -380,7 +380,7 @@
     },
     "company27": {
         "name": {
-            "de": "Game Publischer",
+            "de": "Videospiel / Konsole",
             "en": "Test"
         },
         "logo": "logos/firma-c.png",
@@ -392,7 +392,8 @@
         "socialMedia": {
             "LinkedIn": "https://linkedin.com/firma-a",
             "Twitter": "https://twitter.com/firma-a"
-        }
+        },
+        "subsidiaries": ["company28", "company29", "company30", "company31"]
     },
     "company28": {
         "name": {
@@ -409,6 +410,57 @@
             "LinkedIn": "https://linkedin.com/firma-a",
             "Twitter": "https://twitter.com/firma-a"
         },
-        "parentId": "company4"
+        "parentId": "company27"
+    },
+    "company29": {
+        "name": {
+            "de": "Konsolen hersteller",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Beschreibung auf Deutsch",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        },
+        "parentId": "company27"
+    },
+    "company30": {
+        "name": {
+            "de": "Merchandising",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Beschreibung auf Deutsch",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        },
+        "parentId": "company27"
+    },
+    "company31": {
+        "name": {
+            "de": "spiele entwickler",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Beschreibung auf Deutsch",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        },
+        "parentId": "company27"
     }
 }
