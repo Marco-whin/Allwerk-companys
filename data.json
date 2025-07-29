@@ -311,5 +311,21 @@
             "Twitter": "https://twitter.com/firma-a"
         },
         "parentId": "company4"
+    },
+    "company23": {
+        "name": {
+            "de": "Pulver University",
+            "en": "Pulver University"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Pulver University ist mehr als eine Universität – sie ist das intellektuelle Herz des AllWerk Netzwerks. Modern, vernetzt und visionär öffnet sie den Zugang zu Wissen, Innovation und den stärksten digitalen Ressourcen unserer Zeit.",
+            "en": "Pulver University isn’t just a university—it’s the intellectual heartbeat of the AllWerk Network. Modern, interconnected, and visionary, it unlocks access to knowledge, innovation, and the most powerful digital resources of our time."
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        }
     }
 }
