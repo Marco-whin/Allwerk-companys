@@ -342,6 +342,24 @@
         "socialMedia": {
             "LinkedIn": "https://linkedin.com/firma-a",
             "Twitter": "https://twitter.com/firma-a"
-        }
+        },
+        "subsidiaries": ["company25"]
+    },
+    "company24": {
+        "name": {
+            "de": "Nachrichtendienst",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Beschreibung auf Deutsch",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        },
+        "parentId": "company24"
     }
 }
