@@ -327,5 +327,21 @@
             "LinkedIn": "https://linkedin.com/firma-a",
             "Twitter": "https://twitter.com/firma-a"
         }
+    },
+    "company24": {
+        "name": {
+            "de": "Eigener Staat",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "Beschreibung auf Deutsch",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        }
     }
 }
