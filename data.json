@@ -393,7 +393,7 @@
             "LinkedIn": "https://linkedin.com/firma-a",
             "Twitter": "https://twitter.com/firma-a"
         },
-        "subsidiaries": ["company28", "company29", "company30", "company31"]
+        "subsidiaries": ["company28", "company29", "company30", "company31", "company42"]
     },
     "company28": {
         "name": {
@@ -624,5 +624,22 @@
             "LinkedIn": "https://linkedin.com/firma-a",
             "Twitter": "https://twitter.com/firma-a"
         }
-    }
+    },
+    "company42": {
+        "name": {
+            "de": "Homebrew Konsole",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "gechipte konsolen kaufen oder seine eigenen einsenden",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        },
+        "parentId": "company27"
+    },
 }
