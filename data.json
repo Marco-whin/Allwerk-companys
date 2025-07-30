@@ -641,5 +641,21 @@
             "Twitter": "https://twitter.com/firma-a"
         },
         "parentId": "company27"
+    },
+    "company43": {
+        "name": {
+            "de": "Homebrew Konsole",
+            "en": "Test"
+        },
+        "logo": "logos/firma-c.png",
+        "description": {
+            "de": "gechipte konsolen kaufen oder seine eigenen einsenden",
+            "en": "Description in English"
+        },
+        "website": "https://firma-c.de",
+        "socialMedia": {
+            "LinkedIn": "https://linkedin.com/firma-a",
+            "Twitter": "https://twitter.com/firma-a"
+        }
     }
 }
